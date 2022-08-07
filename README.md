@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=postpone-jin&repo=clean-code)](https://github.com/postpone-jin/clean-code)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=postpone-jin&repo=standard-of-java-3)](https://github.com/postpone-jin/standard-of-java-3)
@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=postpone-jin&repo=team4-project-3)](https://github.com/postpone-jin/team4-project-3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=postpone-jin&repo=board-service)](https://github.com/postpone-jin/board-service)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=postpone-jin&repo=simple-sns-service)](https://github.com/postpone-jin/simple-sns-service)
+
+-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=postpone-jin&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
