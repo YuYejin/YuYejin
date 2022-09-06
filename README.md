@@ -45,7 +45,7 @@
 <br>
 
 
-<h3 align="center"> 🧸 Contact 🧸 </h3>
+<h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href="https://yooniiverse.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=https://yooniiverse.tistory.com/"/></a>&nbsp
   <a href="mailto:postpone.jin@gmail.com"><img src="https://img.shields.io/badge/GMAIL-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:postpone.jin@gmail.com"/></a>
