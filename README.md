@@ -40,7 +40,7 @@
 <h3 align="center">🪄 Stats 🪄</h3>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuYejin&show_icons=true&theme=default&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuYejin&layout=compact&theme=default)](https://github.com/YuYejin)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuYejin&layout=compact&theme=default)](https://github.com/YuYejin)-->
   
 <br>
 
