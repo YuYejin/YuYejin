@@ -44,9 +44,10 @@
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href="https://yooniiverse.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=https://yooniiverse.tistory.com/"/></a>&nbsp
-  <a href="mailto:postpone.jin@gmail.com"><img src="https://img.shields.io/badge/GMAIL-d14836?style=flat-square&logo=Gmail&logoColor=white&link=postpone-jin@gmail.com"/></a>
+  <a href="mailto:postpone.jin@gmail.com"><img src="https://img.shields.io/badge/GMAIL-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:postpone.jin@gmail.com"/></a>
 </p>
 <br>
+
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpostpone-jin&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
